@@ -122,60 +122,6 @@ const About: React.FC = () => {
               </div>
             </div>
           </section>
-
-{/*           <section className="py-20 bg-orange-50">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-              <div className="text-center mb-12">
-                <h2 className="text-3xl font-bold text-gray-900 mb-4">Organizational Structure</h2>
-                <p className="text-gray-600 max-w-3xl mx-auto">
-                  JSSD is governed by a constitution and managed by dedicated volunteers who are elected by our members
-                </p>
-              </div>
-
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                <div className="bg-white p-8 rounded-lg shadow-md">
-                  <h3 className="text-2xl font-bold text-orange-600 mb-6">Executive Committee</h3>
-                  <div className="space-y-4">
-                    <div className="flex justify-between items-center border-b pb-2">
-                      <span className="font-semibold">President</span>
-                      <span className="text-gray-600">2-year term</span>
-                    </div>
-                    <div className="flex justify-between items-center border-b pb-2">
-                      <span className="font-semibold">Vice President</span>
-                      <span className="text-gray-600">2-year term</span>
-                    </div>
-                    <div className="flex justify-between items-center border-b pb-2">
-                      <span className="font-semibold">Secretary</span>
-                      <span className="text-gray-600">2-year term</span>
-                    </div>
-                    <div className="flex justify-between items-center">
-                      <span className="font-semibold">Treasurer</span>
-                      <span className="text-gray-600">2-year term</span>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="bg-white p-8 rounded-lg shadow-md">
-                  <h3 className="text-2xl font-bold text-orange-600 mb-6">Trustee Committee</h3>
-                  <div className="space-y-4">
-                    <p className="text-gray-700">
-                      The Trustee Committee provides oversight and guidance to ensure JSSD operates 
-                      in accordance with its constitution and mission.
-                    </p>
-                    <div className="bg-orange-50 p-4 rounded-lg">
-                      <h4 className="font-semibold text-orange-800 mb-2">Key Responsibilities:</h4>
-                      <ul className="text-gray-700 space-y-1">
-                        <li>• Financial oversight and accountability</li>
-                        <li>• Strategic planning and direction</li>
-                        <li>• Policy development and implementation</li>
-                        <li>• Community representation</li>
-                      </ul>
-                    </div>
-                  </div> */}
-                </div>
-              </div>
-            </div>
-          </section>
         </div>
       </main>
       <Footer />
